@@ -1,0 +1,4 @@
+removed files from dependency 2019/02/21:
+
+# removed from package depends  directly during development: 
+# removed from package suggests during development: clamav, clamav-freshclam, clamav-milter, libc-icap-mod-clamav, libclamav-client-perl, netdata, nut-client, python-pyclamav, sparky-plymouth, webmin
