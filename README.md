@@ -1,4 +1,7 @@
 Sparky Meta Server
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23309034.svg)](https://doi.org/10.5281/zenodo.23309034)
+
 Meta packages are used to install a set of applications to a server edition of Sparky.
 
 Copyright (C) 2019 Paweł Pijanowski
